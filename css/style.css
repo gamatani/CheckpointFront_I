@@ -13,8 +13,6 @@ nav{
     display: flex;
     text-align: center;
     margin-left: 300px;
-    
-    
 }       
    
 li{
@@ -22,7 +20,7 @@ li{
     border-radius: 10px;
     background-color: blanchedalmond;
     display: inline-block;    
-    margin: 0 0 0 90px;
+    margin: 0 0 0 10px;
     width: 100px;
     height: 20px;
     border: 2px double ; 
