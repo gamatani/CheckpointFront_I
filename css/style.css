@@ -104,7 +104,9 @@ h4{
     display: flex;
     justify-content: center;
 }
-
+iframe{
+    border-radius: 15px;
+}
 
 body{
     background-color:rgb(210, 236, 247)
@@ -148,7 +150,7 @@ nav{
     align-items: center;
 }
 ul{
-    margin-left: -50%;
+    margin-left: -370px;
 }
 li{ 
         padding: 30px;
